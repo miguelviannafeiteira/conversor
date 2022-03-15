@@ -2,7 +2,9 @@
 <div>
   <h1 align="center">Sobre o Projeto</h1>
   <p>
-  
+    Nesse projeto criei um conversor de câmbio, de dólar para real e de dólar canadense para real. Para tornar o código mais limpo criei um componente para separar do arquivo
+    principal, e para fazer com que os valores se alterem de forma reativa utilizei o Hook useState. A forma pela qual me comuniquei com a API, foi usando javascript assíncrono.
+    Para tipar todos os variáveis do código, utilizei typescript, para assim estar definido o que pode ser atribuído.
   </p>
 </div>  
 
