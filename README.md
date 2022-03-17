@@ -9,14 +9,6 @@
 </div>  
 
 <div>
-  <h1 align="center">Layout do Site</h1>
-   <img src="./layout/pagina-home.png" width=450> 
-   <img src="./layout/pagina-shop.png" width=450> 
-   <img src="./layout/pagina-produto.png" width=450>
-   <img src="./layout/pagina-cart.png" width=450>
-</div>
-
-<div>
   <h1 align="center">Tecnologias utilizadas</h1>
   <ul>
     <li>Typescript</li>
