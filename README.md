@@ -13,9 +13,7 @@
   <ul>
     <li>Typescript</li>
     <li>React</li>
-    <ul>
-    <li>React</li>
-    </ul>
+
     <li>Javascript</li>
     <li>HTML</li>
     <li>CSS</li>
